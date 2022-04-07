@@ -19,7 +19,7 @@ body {
 }
 
 body {
-  color: #FFF8F5;
+  color: #707283;
   line-height: 1;
   font-family: "Quicksand", sans-serif;
   font-size: 1.125rem;
@@ -28,6 +28,7 @@ body {
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+   background: #FFF8F5;
 }
 
 input,
@@ -74,9 +75,7 @@ h6 {
   font-size: inherit;
 }
 
-body {
-  background: #E5E5E5;
-}
+
 .lock body {
   overflow: hidden;
   touch-action: none;
